@@ -1,9 +1,0 @@
-Algoritmo paroimpar
-	Escribir "ingrese un numero entero"
-	leer numero
-	si numero mod 2 == 0 Entonces
-		Escribir "el numero es par"
-	sino 
-		escribir "el numero es impar"
-	FinSi
-FinAlgoritmo
